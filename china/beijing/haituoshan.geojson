@@ -158506,7 +158506,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "鞍部_扎营地",
+        "marker-color": "#ff9300",
+        "marker-size": "medium",
+        "marker-symbol": "campsite",
+        "name": "鞍部 / 营地",
         "time": "2015-06-27T08:47:51Z",
         "sym": "Campground"
       },
@@ -158522,7 +158525,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "草地平台_中场休息地_之后是迅速上升的泥巴路",
+        "marker-color": "#00f900",
+        "marker-size": "medium",
+        "marker-symbol": "park",
+        "name": "草坪 /休息地",
         "time": "2015-06-27T05:29:06Z",
         "sym": "Flag, Blue"
       },
@@ -158538,22 +158544,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "看云雾",
-        "desc": "张家口市",
-        "time": "2015-06-28T11:37:25Z",
-        "sym": "Scenic Area"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          115.8149664,
-          40.558233
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
         "name": "停车场",
         "desc": "张家口市",
         "time": "2015-06-28T11:34:13Z",
@@ -158570,7 +158563,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "小海坨_山顶",
+        "marker-color": "#ff9300",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "name": "小海坨山顶",
         "time": "2015-06-27T21:22:14Z",
         "sym": "Summit"
       },
@@ -158586,7 +158582,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "小停车场_有厕所_从这里开始是山路",
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
+        "name": "小停车场 / 从这里开始是山路",
         "time": "2015-06-27T04:51:20Z",
         "sym": "Parking Area"
       },
