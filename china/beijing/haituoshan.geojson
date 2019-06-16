@@ -158510,8 +158510,7 @@
         "marker-size": "medium",
         "marker-symbol": "campsite",
         "name": "鞍部 / 营地",
-        "time": "2015-06-27T08:47:51Z",
-        "sym": "Campground"
+        "time": "2015-06-27T08:47:51Z"
       },
       "geometry": {
         "type": "Point",
@@ -158529,8 +158528,7 @@
         "marker-size": "medium",
         "marker-symbol": "park",
         "name": "草坪 /休息地",
-        "time": "2015-06-27T05:29:06Z",
-        "sym": "Flag, Blue"
+        "time": "2015-06-27T05:29:06Z"
       },
       "geometry": {
         "type": "Point",
@@ -158549,8 +158547,7 @@
         "marker-symbol": "parking",
         "name": "停车场",
         "desc": "张家口市",
-        "time": "2015-06-28T11:34:13Z",
-        "sym": "Parking Area"
+        "time": "2015-06-28T11:34:13Z"
       },
       "geometry": {
         "type": "Point",
@@ -158567,8 +158564,7 @@
         "marker-size": "medium",
         "marker-symbol": "triangle",
         "name": "小海坨山顶",
-        "time": "2015-06-27T21:22:14Z",
-        "sym": "Summit"
+        "time": "2015-06-27T21:22:14Z"
       },
       "geometry": {
         "type": "Point",
@@ -158586,8 +158582,7 @@
         "marker-size": "medium",
         "marker-symbol": "parking",
         "name": "小停车场 / 从这里开始是山路",
-        "time": "2015-06-27T04:51:20Z",
-        "sym": "Parking Area"
+        "time": "2015-06-27T04:51:20Z"
       },
       "geometry": {
         "type": "Point",
