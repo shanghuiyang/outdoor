@@ -158591,6 +158591,22 @@
           1502
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#aa7942",
+        "marker-size": "medium",
+        "marker-symbol": "toilets",
+        "name": "公共厕所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.79154253005981,
+          40.56445691249659
+        ]
+      }
     }
   ]
 }
